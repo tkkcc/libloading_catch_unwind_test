@@ -1,4 +1,4 @@
-can we catch_unwind panic in plugin?
+can we catch_unwind plugin's panic?
 
 ```sh
 cargo build -p plugin
